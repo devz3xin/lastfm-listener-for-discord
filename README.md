@@ -1,1 +1,31 @@
 # lastfm-listener-for-discord
+
+Show the music you're listening to your discord friends without using spotify!
+
+# Requirements
+1. python
+2. an always active machine (or the script will stop)
+
+# How to start the script? (ubuntu/debian edition)
+
+- Download the repository.
+```shell
+git clone https://github.com/devz3xin/lastfm-lisener-for-discord/ && cd lastfm-listener-for-discord
+```
+- Edit config.json file with your discord-token, lastfm-username, lastfm-apikey.
+
+- Install python (if not installed on your machine)
+```shell
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3
+```
+
+- Install requirements.txt
+```shell
+pip3 install -r requirements.txt
+```
+
+- Start the script
+```
+python3 main.py
+```
