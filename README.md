@@ -31,5 +31,5 @@ python3 main.py
 ```
 
 # Preview of the script:
-(activity time depends on when the song was fetched/when the script has been started)
+- (activity time depends on when the song was fetched/when the script has been started)
 <img width="356" height="443" alt="image" src="https://github.com/user-attachments/assets/ec681a9c-5b65-4519-aa17-dabf46139e5e" />
